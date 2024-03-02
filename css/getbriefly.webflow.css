@@ -1189,7 +1189,9 @@
   height: 80vh;
   text-align: center;
   background-color: #fff;
-  padding: 100px 30px 40px;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
   display: flex;
   position: relative;
 }
